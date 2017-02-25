@@ -17,3 +17,9 @@
 * 游戏道具增加了炸弹，道具随机出现。使用道具可以炸光屏幕上所有的鱼
 * 音效设置，包括按钮、吃鱼、炸弹、死亡等音效
 
+##应用截图
+
+<img src="screenshots/1.png" width="356" height="200" alt="起始界面" /><br/>
+<img src="screenshots/2.png" width="356" height="200" alt="游戏界面1" /><br/>
+<img src="screenshots/3.png" width="356" height="200" alt="游戏界面2" /><br/>
+<img src="screenshots/4.png" width="356" height="200" alt="结束界面" /><br/>
